@@ -1,10 +1,5 @@
 /**
- *  Author: Tyler Osborne
- *  Date: 2021-11-26
- *  Description:
- *          This program...
- *
- * + Starter Code
+ *              Starter Code
  * */
 package ca.durhamcollege;
 
@@ -141,7 +136,7 @@ public class Vector2D
     @Override
     public String toString()
     {
-        return "(" + x + ", " + y + "}";
+        return "(" + x + ", " + y + ")";
     }
 
     // STATIC METHODS
